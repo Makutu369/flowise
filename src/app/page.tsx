@@ -83,7 +83,7 @@ export default function HomePage() {
               <CardContent>
                 <CardDescription>
                   Knowledge is power. We provide insights that help you
-                  understand your body's natural rhythms and patterns.
+                  understand your bodys natural rhythms and patterns.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -125,8 +125,8 @@ export default function HomePage() {
 
           <div className="mt-16 rounded-2xl bg-muted p-8 text-center">
             <blockquote className="text-lg italic text-muted-foreground">
-              "This app has completely changed how I understand my body. I feel
-              more in control and confident about my health than ever before."
+              This app has completely changed how I understand my body. I feel
+              more in control and confident about my health than ever before
             </blockquote>
             <cite className="mt-4 block text-sm font-medium text-foreground">
               — Sarah M., App User

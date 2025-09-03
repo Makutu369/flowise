@@ -134,7 +134,7 @@ export default function Dashboard() {
             {userData?.name ? `, ${userData.name.split(" ")[0]}` : ""}
           </h1>
           <p className="text-muted-foreground">
-            Here's your cycle overview and health insights
+            Heres your cycle overview and health insights
           </p>
           {!userData && (
             <div className="mt-4 p-4 bg-blue-50 border border-blue-200 rounded-lg">
@@ -295,7 +295,7 @@ export default function Dashboard() {
           <TabsContent value="symptoms" className="space-y-6">
             <div className="bg-background border rounded-lg p-6">
               <h3 className="text-lg font-semibold text-foreground mb-4">
-                Today's Symptoms
+                Todays Symptoms
               </h3>
               <div className="space-y-4">
                 {recentSymptoms.length > 0 ? (

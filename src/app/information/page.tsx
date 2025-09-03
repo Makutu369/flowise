@@ -276,7 +276,7 @@ export default function UserInfoPage() {
                   <div className="flex items-center space-x-3">
                     <RadioGroupItem value="unsure" id="unsure" />
                     <Label htmlFor="unsure" className="font-medium">
-                      I'm not sure
+                      not sure
                     </Label>
                   </div>
                 </RadioGroup>
@@ -400,8 +400,8 @@ export default function UserInfoPage() {
                 Tracking Preferences
               </h2>
               <p className="text-muted-foreground">
-                Choose what symptoms and data you'd like to track for
-                personalized insights
+                Choose what symptoms and data you like to track for personalized
+                insights
               </p>
             </div>
             <div className="space-y-8">

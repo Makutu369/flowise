@@ -243,8 +243,8 @@ export default function AIInsights() {
               Ready to Analyze
             </h3>
             <p className="text-muted-foreground">
-              Click "Check Insights" to get personalized AI analysis of your
-              cycle patterns and health data.
+              Click Check Insights to get personalized AI analysis of your cycle
+              patterns and health data.
             </p>
           </div>
         </div>
