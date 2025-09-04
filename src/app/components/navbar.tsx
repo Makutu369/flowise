@@ -2,7 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { Droplets, Heart, Link } from "lucide-react";
 import SignInModal from "./sign-in-modal";
-import { getSession } from "@/lib/queries./queries";
+import { getSession } from "@/lib/queries/queries";
 import { auth } from "@/lib/auth";
 import { headers } from "next/headers";
 
